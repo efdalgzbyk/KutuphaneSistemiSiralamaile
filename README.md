@@ -2,7 +2,7 @@
 
 ## Bu proje, Java’da nesne yönelimli programlama ve koleksiyonlar konularını pekiştirmek amacıyla hazırlanmıştır.
 
-##Kullanılan Konular
+## Kullanılan Konular
 
 Abstract Class
 
